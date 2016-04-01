@@ -36,7 +36,8 @@ public class MainPresent implements IMainPresenter {
     @Override
     public void download() {
         mainView.showDialog();
-        RetrofitUtils.generateCommonService().down().subscribeOn(Schedulers.newThread())
+        RetrofitUtils.generateCommonService().down()
+                .subscribeOn(Schedulers.newThread())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Subscriber<ResponseBody>() {
                     @Override
@@ -102,7 +103,7 @@ public class MainPresent implements IMainPresenter {
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new BaseSubscriber<GetIpInfoResponse>(new CommonHttpResponse<GetIpInfoResponse>() {
-                    @Override
+                    @Override 
                     public void onSuccess(GetIpInfoResponse commonModel) {
                         LogUtils.e(commonModel.data.country);
                         mainView.toast(commonModel.data.country);
