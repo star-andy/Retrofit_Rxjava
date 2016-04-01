@@ -1,9 +1,11 @@
 package com.qzk.testapplication.common;
 
 
+import com.qzk.testapplication.application.BaseApplication;
 import com.qzk.testapplication.basehttp.BaseInterceptor;
 import com.qzk.testapplication.basehttp.ICommonService;
 
+import java.io.File;
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
@@ -15,6 +17,7 @@ import javax.net.ssl.SSLSocketFactory;
 import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 
+import okhttp3.Cache;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
@@ -58,12 +61,17 @@ public class RetrofitUtils {
                 SSLContext sslContext = SSLContext.getInstance("SSL");
                 sslContext.init(null, trustManager, new SecureRandom());
                 SSLSocketFactory sslSocketFactory = sslContext.getSocketFactory();
-                client = new OkHttpClient.Builder().addInterceptor(interceptor).sslSocketFactory(sslSocketFactory).addInterceptor(new BaseInterceptor()).hostnameVerifier(new HostnameVerifier() {
+                //设置缓存路径
+                File httpCacheDirectory = new File(BaseApplication.getContext().getCacheDir(), "HttpCache");
+                LogUtils.e(httpCacheDirectory.getAbsolutePath());
+                //设置缓存 10M
+                Cache cache = new Cache(httpCacheDirectory, 10 * 1024 * 1024);
+                client = new OkHttpClient.Builder().addInterceptor(interceptor).sslSocketFactory(sslSocketFactory).addNetworkInterceptor(new BaseInterceptor()).hostnameVerifier(new HostnameVerifier() {
                     @Override
                     public boolean verify(String hostname, SSLSession session) {
                         return true;
                     }
-                }).build();
+                }).cache(cache).build();
             } catch (NoSuchAlgorithmException e) {
                 e.printStackTrace();
             } catch (KeyManagementException e) {

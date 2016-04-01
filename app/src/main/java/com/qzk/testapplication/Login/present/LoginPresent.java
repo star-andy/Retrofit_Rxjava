@@ -5,6 +5,7 @@ import com.qzk.testapplication.Login.view.ILoginView;
 import com.qzk.testapplication.basehttp.BaseSubscriber;
 import com.qzk.testapplication.basehttp.CommonHttpResponse;
 import com.qzk.testapplication.basehttp.CommonModel;
+import com.qzk.testapplication.basehttp.GetIpInfoResponse;
 import com.qzk.testapplication.common.DataVerificationUtils;
 import com.qzk.testapplication.common.LogUtils;
 import com.qzk.testapplication.common.RetrofitUtils;
@@ -81,5 +82,22 @@ public class LoginPresent implements ILoginPresenter {
                     }
                 }));
 
+    }
+
+    @Override
+    public void test(String ip) {
+        RetrofitUtils.generateCommonService().test(ip)
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new BaseSubscriber<GetIpInfoResponse>(new CommonHttpResponse<GetIpInfoResponse>() {
+                    @Override
+                    public void onSuccess(GetIpInfoResponse commonModel) {
+                        LogUtils.e(commonModel.data.country);
+                    }
+                    @Override
+                    public void onError(String msg) {
+                        loginView.showErrorMessage(msg);
+                    }
+                }));
     }
 }

@@ -9,4 +9,5 @@ package com.qzk.testapplication.Login.present;
 public interface ILoginPresenter {
     void login(String userName,String passWord);
     void mobileCheck(String mobile);
+    void test(String ip);
 }

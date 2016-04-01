@@ -1,7 +1,5 @@
 package com.qzk.testapplication.basehttp;
 
-import com.qzk.testapplication.common.LogUtils;
-
 import rx.Subscriber;
 
 /**
@@ -28,12 +26,12 @@ public  class BaseSubscriber<T> extends Subscriber<T>  {
 
     @Override
     public void onNext(T t) {
-        BaseModel data = (BaseModel) t;
-        if (data.getEc().equals("200")){
+//        BaseModel data = (BaseModel) t;
+//        if (data.getEc().equals("200")){
             this._httpResponse.onSuccess(t);
-        }else{
-            this._httpResponse.onError(data.getEm());
-        }
+//        }else{
+//            this._httpResponse.onError(data.getEm());
+//        }
 
 
     }

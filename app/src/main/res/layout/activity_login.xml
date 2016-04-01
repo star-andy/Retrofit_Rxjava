@@ -5,35 +5,41 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:id="@+id/root"
     >
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="点击图片重新拍照"
+        android:id="@+id/imei"
         android:textColor="#ff0000"/>
-    <ImageView
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:id="@+id/image"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher"/>
-
-    <Button
-        android:id="@+id/upload"
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="0dp"
         app:layout_heightPercent="10%h"
         app:layout_marginPercent="5%h"
-        android:text="upload"/>
+        android:text="13718605021"
+        android:id="@+id/userName"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="10%h"
+        app:layout_marginLeftPercent="5%h"
+        app:layout_marginRightPercent="5%h"
+        android:text="123456"
+        android:id="@+id/passWord"/>
     <Button
-        android:id="@+id/download"
+        android:id="@+id/login"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         app:layout_heightPercent="10%h"
         app:layout_marginPercent="5%h"
-        android:text="download"/>
-
+        android:text="Login"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="20%h"
+        app:layout_marginLeftPercent="5%h"
+        app:layout_marginRightPercent="5%h"
+        android:id="@+id/response"/>
 
     <ProgressBar
         android:id="@+id/progress_bar"
