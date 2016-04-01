@@ -18,14 +18,13 @@
         android:supportsRtl="true"
         android:hardwareAccelerated="false"
         android:theme="@android:style/Theme.Light.NoTitleBar" >
-        <activity android:name=".Login.view.LoginActivity" >
+        <activity android:name=".Main.view.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Main.view.MainActivity"/>
 
     </application>
 

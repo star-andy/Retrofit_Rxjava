@@ -1,9 +1,5 @@
 package com.qzk.testapplication.Main.view;
 
-import android.graphics.Bitmap;
-
-import java.io.File;
-
 /**
  * 当前类注释：
  * 项目名：TestApplication
@@ -12,8 +8,8 @@ import java.io.File;
  */
 public interface IMainView {
 
-    void setBitMap(Bitmap bitmap);
-    void updateApk(File update);
+
+
     void showDialog();
     void dissmissDialog();
     void toast(String msg);
