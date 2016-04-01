@@ -7,5 +7,5 @@ package com.qzk.testapplication.common;
  * Created by QZK on 2016/3/29.
  */
 public class ConstantUtils {
-    public static final String HOST = "https://www.ikaihuo.com:8443/withball/";
+    public static final String HOST = "http://ip.taobao.com/";
 }
