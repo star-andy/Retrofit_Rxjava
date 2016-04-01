@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.qzk.testapplication;
+package com.retrofit_rxjava.sample;
 
 public final class R {
     public static final class anim {
@@ -2306,7 +2306,7 @@ containing a value of this type.
             0x7f01002d, 0x7f01002e, 0x7f01008f
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#background}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2316,7 +2316,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2328,7 +2328,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2340,7 +2340,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2356,7 +2356,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2372,7 +2372,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2388,7 +2388,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2404,7 +2404,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2414,7 +2414,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2436,7 +2436,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2446,7 +2446,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2462,7 +2462,7 @@ containing a value of this type.
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#height}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2478,7 +2478,7 @@ containing a value of this type.
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2492,7 +2492,7 @@ containing a value of this type.
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2502,7 +2502,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2512,7 +2512,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2522,7 +2522,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2532,7 +2532,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2548,7 +2548,7 @@ containing a value of this type.
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2558,7 +2558,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2576,7 +2576,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2586,7 +2586,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2602,7 +2602,7 @@ containing a value of this type.
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2612,7 +2612,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2626,7 +2626,7 @@ containing a value of this type.
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2636,7 +2636,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#title}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2650,7 +2650,7 @@ containing a value of this type.
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2727,7 +2727,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010021, 0x7f01002f
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#background}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2737,7 +2737,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2749,7 +2749,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2759,7 +2759,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#height}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2775,7 +2775,7 @@ containing a value of this type.
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2785,7 +2785,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2810,7 +2810,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010030, 0x7f010031
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2820,7 +2820,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2864,7 +2864,7 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2874,7 +2874,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2884,7 +2884,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2894,7 +2894,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2904,7 +2904,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2935,7 +2935,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -2959,7 +2959,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010038
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -2996,7 +2996,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3011,7 +3011,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3059,7 +3059,7 @@ containing a value of this type.
             0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3075,7 +3075,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3091,7 +3091,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3107,7 +3107,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#color}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3122,7 +3122,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3138,7 +3138,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3154,7 +3154,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3168,7 +3168,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3245,7 +3245,7 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3255,7 +3255,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3271,7 +3271,7 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3285,7 +3285,7 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3483,7 +3483,7 @@ containing a value of this type.
             0x7f010049
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3493,7 +3493,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3507,7 +3507,7 @@ containing a value of this type.
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3599,7 +3599,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3689,7 +3689,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -3756,7 +3756,7 @@ containing a value of this type.
             0x7f010010, 0x7f010011, 0x7f010012
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_heightPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_heightPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3770,7 +3770,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_heightPercent = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginBottomPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginBottomPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3784,7 +3784,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginBottomPercent = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginEndPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginEndPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3798,7 +3798,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginEndPercent = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginLeftPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginLeftPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3812,7 +3812,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginLeftPercent = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3826,7 +3826,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginPercent = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginRightPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginRightPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3840,7 +3840,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginRightPercent = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginStartPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginStartPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3854,7 +3854,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginStartPercent = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_marginTopPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_marginTopPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3868,7 +3868,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_marginTopPercent = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_maxHeightPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_maxHeightPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3882,7 +3882,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_maxHeightPercent = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_maxWidthPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_maxWidthPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3896,7 +3896,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_maxWidthPercent = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_minHeightPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_minHeightPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3910,7 +3910,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_minHeightPercent = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_minWidthPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_minWidthPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3924,7 +3924,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_minWidthPercent = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_paddingBottomPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_paddingBottomPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3938,7 +3938,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_paddingBottomPercent = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_paddingLeftPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_paddingLeftPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3952,7 +3952,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_paddingLeftPercent = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_paddingPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_paddingPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3966,7 +3966,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_paddingPercent = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_paddingRightPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_paddingRightPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3980,7 +3980,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_paddingRightPercent = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_paddingTopPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_paddingTopPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -3994,7 +3994,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_paddingTopPercent = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_textSizePercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_textSizePercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -4008,7 +4008,7 @@ containing a value of this type.
         */
         public static final int PercentLayout_Layout_layout_textSizePercent = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout_widthPercent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout_widthPercent}
           attribute's value can be found in the {@link #PercentLayout_Layout} array.
 
 
@@ -4043,7 +4043,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -4070,7 +4070,7 @@ containing a value of this type.
             0x7f01004c
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -4157,7 +4157,7 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4167,7 +4167,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4177,7 +4177,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4191,7 +4191,7 @@ containing a value of this type.
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4201,7 +4201,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4215,7 +4215,7 @@ containing a value of this type.
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4225,7 +4225,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4235,7 +4235,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4249,7 +4249,7 @@ containing a value of this type.
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4259,7 +4259,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4269,7 +4269,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4279,7 +4279,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4289,7 +4289,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4336,7 +4336,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -4397,7 +4397,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4411,7 +4411,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4425,7 +4425,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4441,7 +4441,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4457,7 +4457,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4467,7 +4467,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4483,7 +4483,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#track}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4572,7 +4572,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
@@ -4841,7 +4841,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100cb, 0x7f0100cc
         };
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4851,7 +4851,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4861,7 +4861,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4871,7 +4871,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4895,7 +4895,7 @@ containing a value of this type.
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4905,7 +4905,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4915,7 +4915,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4925,7 +4925,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4935,7 +4935,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4945,7 +4945,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4955,7 +4955,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4965,7 +4965,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4975,7 +4975,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4985,7 +4985,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4995,7 +4995,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5007,7 +5007,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5017,7 +5017,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5027,7 +5027,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5037,7 +5037,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5047,7 +5047,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5057,7 +5057,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5067,7 +5067,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5077,7 +5077,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5087,7 +5087,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5097,7 +5097,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5107,7 +5107,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5117,7 +5117,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5127,7 +5127,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5137,7 +5137,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5147,7 +5147,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5157,7 +5157,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5167,7 +5167,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5177,7 +5177,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5191,7 +5191,7 @@ containing a value of this type.
         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5201,7 +5201,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5223,7 +5223,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5233,7 +5233,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5243,7 +5243,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5253,7 +5253,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5263,7 +5263,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5273,7 +5273,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5283,7 +5283,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5293,7 +5293,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5303,7 +5303,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5313,7 +5313,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5323,7 +5323,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5333,7 +5333,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5348,7 +5348,7 @@ containing a value of this type.
         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5363,7 +5363,7 @@ containing a value of this type.
         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5378,7 +5378,7 @@ containing a value of this type.
         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5393,7 +5393,7 @@ containing a value of this type.
         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5408,7 +5408,7 @@ containing a value of this type.
         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5423,7 +5423,7 @@ containing a value of this type.
         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5438,7 +5438,7 @@ containing a value of this type.
         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5453,7 +5453,7 @@ containing a value of this type.
         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5463,7 +5463,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5479,7 +5479,7 @@ containing a value of this type.
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5489,7 +5489,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5499,7 +5499,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5509,7 +5509,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5519,7 +5519,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5535,7 +5535,7 @@ containing a value of this type.
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5545,7 +5545,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5557,7 +5557,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5567,7 +5567,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5577,7 +5577,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5587,7 +5587,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5597,7 +5597,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5607,7 +5607,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5617,7 +5617,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5633,7 +5633,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5649,7 +5649,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5665,7 +5665,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5681,7 +5681,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5697,7 +5697,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5707,7 +5707,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5717,7 +5717,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5733,7 +5733,7 @@ containing a value of this type.
         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5743,7 +5743,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5753,7 +5753,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5763,7 +5763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5773,7 +5773,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5783,7 +5783,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5793,7 +5793,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5803,7 +5803,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5813,7 +5813,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5823,7 +5823,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5833,7 +5833,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5843,7 +5843,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5853,7 +5853,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5863,7 +5863,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5873,7 +5873,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5883,7 +5883,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5893,7 +5893,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5903,7 +5903,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5915,7 +5915,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5927,7 +5927,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5937,7 +5937,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5947,7 +5947,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5961,7 +5961,7 @@ containing a value of this type.
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5975,7 +5975,7 @@ containing a value of this type.
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5989,7 +5989,7 @@ containing a value of this type.
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6008,7 +6008,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6027,7 +6027,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6046,7 +6046,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6065,7 +6065,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6084,7 +6084,7 @@ containing a value of this type.
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6103,7 +6103,7 @@ containing a value of this type.
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6196,7 +6196,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6210,7 +6210,7 @@ containing a value of this type.
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6220,7 +6220,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6236,7 +6236,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6252,7 +6252,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6268,7 +6268,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6284,7 +6284,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6294,7 +6294,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6308,7 +6308,7 @@ containing a value of this type.
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6324,7 +6324,7 @@ containing a value of this type.
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6338,7 +6338,7 @@ containing a value of this type.
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6348,7 +6348,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6358,7 +6358,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6372,7 +6372,7 @@ containing a value of this type.
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6382,7 +6382,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6397,7 +6397,7 @@ containing a value of this type.
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#title}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6411,7 +6411,7 @@ containing a value of this type.
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6427,7 +6427,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6443,7 +6443,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6459,7 +6459,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6475,7 +6475,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6491,7 +6491,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6501,7 +6501,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6550,7 +6550,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6566,7 +6566,7 @@ containing a value of this type.
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6582,7 +6582,7 @@ containing a value of this type.
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6615,7 +6615,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6630,7 +6630,7 @@ containing a value of this type.
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qzk.testapplication.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.retrofit_rxjava.sample.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 

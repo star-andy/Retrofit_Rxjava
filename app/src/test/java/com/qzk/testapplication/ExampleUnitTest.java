@@ -1,4 +1,4 @@
-package com.qzk.testapplication;
+package com.retrofit_rxjava.sample;
 
 import org.junit.Test;
 
