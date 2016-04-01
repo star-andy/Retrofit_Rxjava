@@ -3,6 +3,7 @@ package com.qzk.testapplication.Main.view;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.Toast;
@@ -17,9 +18,10 @@ import com.qzk.testapplication.R;
  * 包名： com.qzk.testapplication.Main.view
  * Created by QZK on 2016/3/30.
  */
-public class MainActivity extends Activity implements IMainView {
+public class MainActivity extends Activity implements IMainView,View.OnClickListener {
     private Activity mActivity = MainActivity.this;
     private LinearLayout root;
+    private Button download;
     private ProgressBar progress_bar;
     private IMainPresenter mainPresenter;
 
@@ -42,7 +44,9 @@ public class MainActivity extends Activity implements IMainView {
 
     private void initView() {
         root = (LinearLayout) findViewById(R.id.root);
+        download = (Button)findViewById(R.id.download);
         progress_bar = (ProgressBar) findViewById(R.id.progress_bar);
+        download.setOnClickListener(this);
 
     }
 
@@ -56,5 +60,9 @@ public class MainActivity extends Activity implements IMainView {
         progress_bar.setVisibility(View.GONE);
     }
 
+    @Override
+    public void onClick(View v) {
+        mainPresenter.download();
 
+    }
 }

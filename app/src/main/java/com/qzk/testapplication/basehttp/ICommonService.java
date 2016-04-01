@@ -18,4 +18,7 @@ public interface ICommonService {
     @GET("service/getIpInfo.php")
     Observable<GetIpInfoResponse> test(@Query("ip") String ip);
 
+    @GET("http://pkg.fir.im/2c3051a843fb613c07f2114af8ab7ea890ebc076?attname=Imfans.apk_1.0.0.apk&e=1453436599&token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:mKbowXTF4R8wFLY3Tcy95HGTwlk=")
+    @Headers({"Content-Type: image/jpeg"})
+    Observable<ResponseBody> down();
 }
