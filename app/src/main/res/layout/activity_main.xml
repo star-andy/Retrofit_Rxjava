@@ -11,6 +11,11 @@
         android:layout_height="45dp"
         android:text="download"
         android:id="@+id/download"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="parseJson"
+        android:id="@+id/parseJson"/>
     <ProgressBar
         android:id="@+id/progress_bar"
         android:layout_width="wrap_content"

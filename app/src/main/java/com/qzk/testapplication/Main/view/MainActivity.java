@@ -22,6 +22,7 @@ public class MainActivity extends Activity implements IMainView,View.OnClickList
     private Activity mActivity = MainActivity.this;
     private LinearLayout root;
     private Button download;
+    private Button parseJson;
     private ProgressBar progress_bar;
     private IMainPresenter mainPresenter;
 
@@ -36,17 +37,21 @@ public class MainActivity extends Activity implements IMainView,View.OnClickList
         setContentView(R.layout.activity_main);
         initView();
         mainPresenter = new MainPresent(this);
-        mainPresenter.test("63.223.108.42");
+//        mainPresenter.test("63.223.108.42");
 
     }
+
+
 
 
 
     private void initView() {
         root = (LinearLayout) findViewById(R.id.root);
         download = (Button)findViewById(R.id.download);
+        parseJson = (Button)findViewById(R.id.parseJson);
         progress_bar = (ProgressBar) findViewById(R.id.progress_bar);
         download.setOnClickListener(this);
+        parseJson.setOnClickListener(this);
 
     }
 
@@ -62,7 +67,17 @@ public class MainActivity extends Activity implements IMainView,View.OnClickList
 
     @Override
     public void onClick(View v) {
-        mainPresenter.download();
+        switch (v.getId()){
+            case R.id.download:{
+                mainPresenter.download();
+            }
+            break;
+            case R.id.parseJson:{
+                mainPresenter.oberParseJsonTest();
+            }
+            break;
+        }
+
 
     }
 }

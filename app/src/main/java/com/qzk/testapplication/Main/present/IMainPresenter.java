@@ -9,5 +9,6 @@ package com.qzk.testapplication.Main.present;
 public interface IMainPresenter {
     void test(String msg);
     void download();
+    void oberParseJsonTest();
 
 }

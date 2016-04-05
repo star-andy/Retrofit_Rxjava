@@ -1,10 +1,12 @@
 package com.qzk.testapplication.Main.present;
 
+import com.google.gson.Gson;
 import com.qzk.testapplication.Main.view.IMainView;
 import com.qzk.testapplication.application.BaseApplication;
 import com.qzk.testapplication.basehttp.BaseSubscriber;
 import com.qzk.testapplication.basehttp.CommonHttpResponse;
 import com.qzk.testapplication.basehttp.GetIpInfoResponse;
+import com.qzk.testapplication.basehttp.TestBean;
 import com.qzk.testapplication.common.LogUtils;
 import com.qzk.testapplication.common.RetrofitUtils;
 
@@ -14,6 +16,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 import okhttp3.ResponseBody;
+import rx.Observable;
+import rx.Observer;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
@@ -48,7 +52,7 @@ public class MainPresent implements IMainPresenter {
                     @Override
                     public void onError(Throwable e) {
                         mainView.dissmissDialog();
-                        mainView.toast("下载文件失败+++++"+e.getMessage());
+                        mainView.toast("下载文件失败+++++" + e.getMessage());
                         LogUtils.e("errorrrrrrrrrr");
 
                     }
@@ -64,30 +68,22 @@ public class MainPresent implements IMainPresenter {
                             fos = new FileOutputStream(file);
                             bos = new BufferedOutputStream(fos);
                             bos.write(by);
-                            LogUtils.e("length=======>",file.length()+"");
+                            LogUtils.e("length=======>", file.length() + "");
                             mainView.toast("下载文件完成");
-                        }catch (IOException e){
+                        } catch (IOException e) {
                             e.printStackTrace();
-                        }finally {
-                            if (bos != null)
-                            {
-                                try
-                                {
+                        } finally {
+                            if (bos != null) {
+                                try {
                                     bos.close();
-                                }
-                                catch (IOException e)
-                                {
+                                } catch (IOException e) {
                                     e.printStackTrace();
                                 }
                             }
-                            if (fos != null)
-                            {
-                                try
-                                {
+                            if (fos != null) {
+                                try {
                                     fos.close();
-                                }
-                                catch (IOException e)
-                                {
+                                } catch (IOException e) {
                                     e.printStackTrace();
                                 }
                             }
@@ -103,7 +99,7 @@ public class MainPresent implements IMainPresenter {
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new BaseSubscriber<GetIpInfoResponse>(new CommonHttpResponse<GetIpInfoResponse>() {
-                    @Override 
+                    @Override
                     public void onSuccess(GetIpInfoResponse commonModel) {
                         LogUtils.e(commonModel.data.country);
                         mainView.toast(commonModel.data.country);
@@ -116,5 +112,37 @@ public class MainPresent implements IMainPresenter {
                 }));
     }
 
+    @Override
+    public void oberParseJsonTest() {
+        final String json = "{\"ec\":\"200\",\"em\":\"aaa\"}";
+        Observer<TestBean> observer = new Observer<TestBean>() {
+            @Override
+            public void onCompleted() {
 
+            }
+
+            @Override
+            public void onError(Throwable e) {
+                mainView.toast("Json解析=====error" + e.getMessage());
+                LogUtils.e("Json解析=====error", e.getMessage());
+            }
+
+            @Override
+            public void onNext(TestBean testBean) {
+                mainView.toast("Json解析======success" + testBean.getEm());
+                LogUtils.e("Json解析======success", testBean.getEc());
+            }
+        };
+        Observable observable = Observable.create(new Observable.OnSubscribe<TestBean>() {
+            @Override
+            public void call(Subscriber<? super TestBean> subscriber) {
+                subscriber.onNext(new Gson().fromJson(json, TestBean.class));
+                subscriber.onCompleted();
+            }
+        });
+        observable.subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(observer);
+
+    }
 }
