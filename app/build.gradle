@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.qzk.testapplication"
+        applicationId "com.retrofit_rxjava.sample"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
