@@ -11,9 +11,6 @@ import com.retrofit_rxjava.sample.Main.base.IBasePresenter;
 public interface IMainPresenter extends IBasePresenter {
     void test(String msg);
     void download();
-<<<<<<< HEAD:app/src/main/java/com/qzk/testapplication/Main/present/IMainPresenter.java
     void oberParseJsonTest();
 
-=======
->>>>>>> abb255a4f6d78918e5c4781e39636e9e6d77e177:app/src/main/java/com/retrofit_rxjava/sample/Main/present/IMainPresenter.java
 }

@@ -1,25 +1,15 @@
 package com.retrofit_rxjava.sample.Main.present;
 
-<<<<<<< HEAD:app/src/main/java/com/qzk/testapplication/Main/present/MainPresent.java
 import com.google.gson.Gson;
-import com.qzk.testapplication.Main.view.IMainView;
-import com.qzk.testapplication.application.BaseApplication;
-import com.qzk.testapplication.basehttp.BaseSubscriber;
-import com.qzk.testapplication.basehttp.CommonHttpResponse;
-import com.qzk.testapplication.basehttp.GetIpInfoResponse;
-import com.qzk.testapplication.basehttp.TestBean;
-import com.qzk.testapplication.common.LogUtils;
-import com.qzk.testapplication.common.RetrofitUtils;
-=======
 import com.retrofit_rxjava.sample.Main.base.BasePresent;
 import com.retrofit_rxjava.sample.Main.view.IMainView;
 import com.retrofit_rxjava.sample.application.BaseApplication;
 import com.retrofit_rxjava.sample.basehttp.BaseSubscriber;
 import com.retrofit_rxjava.sample.basehttp.CommonHttpResponse;
 import com.retrofit_rxjava.sample.basehttp.GetIpInfoResponse;
+import com.retrofit_rxjava.sample.basehttp.TestBean;
 import com.retrofit_rxjava.sample.common.LogUtils;
 import com.retrofit_rxjava.sample.common.RetrofitUtils;
->>>>>>> abb255a4f6d78918e5c4781e39636e9e6d77e177:app/src/main/java/com/retrofit_rxjava/sample/Main/present/MainPresent.java
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -128,7 +118,6 @@ public class MainPresent extends BasePresent implements IMainPresenter {
     }
 
     @Override
-<<<<<<< HEAD:app/src/main/java/com/qzk/testapplication/Main/present/MainPresent.java
     public void oberParseJsonTest() {
         final String json = "{\"ec\":\"200\",\"em\":\"aaa\"}";
         Observer<TestBean> observer = new Observer<TestBean>() {
@@ -159,10 +148,9 @@ public class MainPresent extends BasePresent implements IMainPresenter {
         observable.subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(observer);
-
-=======
+    }
+    @Override
     public void cancel() {
         stopObserver(sub1);
->>>>>>> abb255a4f6d78918e5c4781e39636e9e6d77e177:app/src/main/java/com/retrofit_rxjava/sample/Main/present/MainPresent.java
     }
 }
